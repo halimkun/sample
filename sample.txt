@@ -1,2 +1,3 @@
 "Ini adalah isi sample.txt pertama kali dibuat." 
-"Ini dari fitur A" 
+"Ini dari fitur B" 
+"Ini dari fitur A"
